@@ -1,0 +1,7 @@
+version: '2'
+watchers:
+  - cyberhck
+  - sidzan
+text:
+  - "// tslint:disable"
+  - "// todo"
