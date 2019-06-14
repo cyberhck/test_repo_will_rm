@@ -1,5 +1,5 @@
 version: '2'
-invalidStatus: "failed"
+invalidStatus: "pending"
 labelRule:
   endsWith:
     - "g"
