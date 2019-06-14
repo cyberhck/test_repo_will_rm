@@ -1,8 +1,8 @@
 version: '2'
 invalidStatus: "failed"
 labelRule:
-  - endsWith:
+  endsWith:
     - "g"
-  - values:
+  values:
     - "bug"
     - "enhancement"
