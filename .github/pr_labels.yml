@@ -1,7 +1,8 @@
 version: '2'
-watchers:
-  - cyberhck
-  - sidzan
-text:
-  - "// tslint:disable"
-  - "// todo"
+invalidStatus: "failed"
+labelRule:
+  - endsWith:
+    - "g"
+  - values:
+    - "bug"
+    - "enhancement"
