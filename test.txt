@@ -2,4 +2,4 @@ empty file
 new line
 next line
 
-test pr
+test pr[[
