@@ -2,4 +2,4 @@ empty file
 new line
 next line
 
-W
+Wi
